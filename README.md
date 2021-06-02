@@ -1,3 +1,2 @@
 # First-Contribution
-This is my first contribution
-This is Himanshu Gupta
+This is my first
