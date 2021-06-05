@@ -1,2 +1,2 @@
 # First-Contribution
-This is my first contribution
+Hello. This is my first contribution in the open source world. Just trying to expand my learning boundaries taking inital steps by diving into the ocean of open source. I am ia beginner in this field and trying to grab knowledge about this.Anuj Bhaiya videos are reaaly helpful. His way of teaching is really amazing and easy to grab. Here i am making my first pull request to his repository. 
