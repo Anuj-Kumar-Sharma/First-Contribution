@@ -20,3 +20,5 @@ cout<<"price :- "<<g1.price<<endl;
 
     return 0;
 }
+
+//single inheritance
