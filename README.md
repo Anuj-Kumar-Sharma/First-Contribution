@@ -1,2 +1,2 @@
 # First-Contribution
-This is my first contribution
+These are my first changes to other's Repository
