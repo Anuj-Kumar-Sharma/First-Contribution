@@ -1,2 +1,2 @@
 # First-Contribution
-This is my first contribution
+console.log("Thank YOU Bhaiya")
