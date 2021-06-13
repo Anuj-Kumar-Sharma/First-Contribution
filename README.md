@@ -1,3 +1,2 @@
 # First-Contribution
-This is my first contribution 
-console.log("Open Source")
+console.log("Thank YOU Bhaiya")
