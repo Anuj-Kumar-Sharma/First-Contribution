@@ -1,2 +1,2 @@
 # First-Contribution
-This is my first contribution
+It was good lecture on git and github
