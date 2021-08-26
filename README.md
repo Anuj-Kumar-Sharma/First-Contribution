@@ -1,2 +1,2 @@
 # First-Contribution
-This is my first contribution
+You taught be Git very Well. Thank You
