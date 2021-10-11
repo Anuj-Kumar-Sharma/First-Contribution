@@ -1,3 +1,3 @@
 # First-Contribution
 This is my first contribution
-I am Omkar
+My name is Omkar Khare
