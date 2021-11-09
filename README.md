@@ -1,2 +1,2 @@
 # First-Contribution
-This is my first contribution
+c'est genial! tu es un genial.
