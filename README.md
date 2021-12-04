@@ -1,4 +1,5 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hi This is Aritra Mondal.
+Trying my new git skills. 
+Anuj bhaiya video is damn pratical and good.
+Simple and straight to the point.
