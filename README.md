@@ -1,4 +1,2 @@
-# First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Completed my first open source project, please pay me 1bn dollars
+
