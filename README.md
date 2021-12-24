@@ -1,4 +1,2 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hello thhis is Anirudh Kumar and it is my first contribution and thanks to Anuj bhaiya for providing such a quality content
