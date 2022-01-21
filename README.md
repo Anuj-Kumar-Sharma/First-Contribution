@@ -1,4 +1,3 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hello, I am Shahbaz Khan and this is my first pull request with complete understanding of what I am doing.
+Thank you so much for the Git and Github video.
