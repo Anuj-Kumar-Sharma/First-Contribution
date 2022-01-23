@@ -1,4 +1,3 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hi... This is Goutam Goswami and it's my contribution.
+also a very warm thank you to our favourite Anuj Bhaiya for this  video. it was very helpful.
