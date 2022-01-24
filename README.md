@@ -1,4 +1,4 @@
-# First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+#First-Contribution
+Hi this is yash jain and here is my first contribution to open source.
+i love anuj bhaiya's video and they are helping me alot.
+thank you bhaiya ☻
