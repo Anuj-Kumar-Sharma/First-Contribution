@@ -1,4 +1,3 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hi this is Ashutosh and this is my first contribution.
+I am very grateful to Anuj bhaiya for this video.
