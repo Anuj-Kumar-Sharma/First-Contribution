@@ -1,4 +1,5 @@
+
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+
+Hi this is Vipul Maheshwar, I am 20 years old and this is my first open source contribution.
+Hi Anuj Bhaiya, thanks for the video, best git and github video on the internet. It feels so easy.
