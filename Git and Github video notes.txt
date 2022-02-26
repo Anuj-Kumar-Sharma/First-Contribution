@@ -1,0 +1,97 @@
+Git and Github Notes (of Anuj Bhaiya's youtube video)
+
+Video link: https://www.youtube.com/watch?v=uaeKhfhYE0U&ab_channel=AnujBhaiya
+
+
+Commands:
+
+1. Check git version
+	> git --version
+
+2. Set username and user email globally
+	> git config --global user.name "Chirag"
+	> git config --global user.email "abcd_testmail@gmail.com"
+
+3. Check your global username and email
+	> git config --global user.name
+	> git config --global user.email
+
+4. Edit global variables
+	> git config --global --edit
+
+	// Change variables
+	Press ESC key
+	Type ":wq" and hit ENTER to save changes.
+
+5. List all global variables
+	> git config --global -l
+	or
+	> git config --global -list
+
+6. Make new directory
+	> mkdir <new_directory_name>
+
+7. Change directory
+	> cd <directory_name>
+
+8. Convert a normal foolder to local git repo
+	> git init
+
+9. Get status of file changes
+	> git status
+
+10. Add or update file(s) to staging area
+	> git add <file_name>
+
+	// Files under staging area are being tracked by GIT (locally if you're working locally)
+
+11. Commit files under staging area
+	> git commit -m "Some plausible commit message"
+
+12. Check details about commits of working branch
+	> git log
+
+13. To Discard/ restore file changes in the working directory
+	> git restore <file_name>
+
+14. To unstage staged files
+	> git restore --staged <file_name>
+
+15. Add all the file (in the working directory) to staging area
+	> git add .
+
+16. Checkout any branch or any commit(using hash code)
+	> git checkout <commit hash code/ branch_name>
+
+17. Create branch
+	> git branch <branch_name>
+
+18. Check what all braches are present
+	> git branch
+
+19. Create and checkout a new branch
+	> git checkout -b <brach_name>
+
+20. Merging branched (user must be in a parent branch)
+	> git merge <child_branch_name>
+
+	// Parent branch means the branch in which the changes has to be merged
+	// child branch means the branch in which code changes are present.
+
+21. To ignore files by GIT
+	
+	// Create a file named '.gitignore'
+	// Add file(s) name to '.gitignore'
+	// Add name '.gitignore' to file '.gitignore'
+
+22. Add/ connect repo remotely
+	> git remote -v
+	> git remote add origin <remote_repo_url.git>
+	> git branch -M main (main is the remote repo)
+	> git push -u origin main
+
+23. Clone a repo
+	> git clone <repo_url>
+
+Note: I have created these notes, it can be possile that there is a mistake in these notes.
+Please let me know once you catch one.
