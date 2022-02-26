@@ -93,5 +93,5 @@ Commands:
 23. Clone a repo
 	> git clone <repo_url>
 
-Note: I have created these notes, it can be possile that there is a mistake in these notes.
+Note: It may be possile that there can be a mistake in these notes.
 Please let me know once you catch one.
