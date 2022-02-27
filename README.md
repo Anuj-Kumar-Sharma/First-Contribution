@@ -1,4 +1,2 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hey there Today is sunday and i am learning git and github from Anuj bhaiya You Tube.
