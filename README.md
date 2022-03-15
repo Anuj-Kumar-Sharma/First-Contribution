@@ -1,2 +1,3 @@
 # First-Contribution
-Hey there Today is sunday and i am learning git and github from Anuj bhaiya You Tube.this is day after saturday.
+This is repository that i fork from Anuj bhaiya Git and github.
+This is for earning purpose only.
