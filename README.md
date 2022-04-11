@@ -1,3 +1,3 @@
-# First-Contribution
-I Am Sankalp Patnaik 
-I Love to code
+#Hello Everyone
+
+I am K Sankalp Patnaik,I Love to Learn New SkillS & Technologies..😜
