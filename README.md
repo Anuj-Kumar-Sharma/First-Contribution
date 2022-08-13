@@ -1,4 +1,4 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hi This is my first contribution
+Glad to learn from Anuj Bhaiya
+This Tutorial was really helpful and I am looking forward to do more Open Source Contributions
