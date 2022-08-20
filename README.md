@@ -1,4 +1,4 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hi anuj bhaiya this is my first contribution on github and you taught all these thing in a very simple and practical way.
+This lecture is wonderful 
+Thank you Anuj Bhaiya
