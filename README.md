@@ -1,4 +1,2 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Thank you everyone for watching my video and more than 1K fork...
