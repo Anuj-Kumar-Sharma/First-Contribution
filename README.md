@@ -1,4 +1,5 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hi I am sumit from jharkhand and thanks anuj bhaiya for your suggestion
+your video is too god and easy to understand
+
+// thanks bhaiya ._.
