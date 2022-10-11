@@ -1,2 +1,2 @@
-# First-Contributtion
-I it is a rainy day
+# First-Contribution
+DBMS project is hell!!
