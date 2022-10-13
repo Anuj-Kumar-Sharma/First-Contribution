@@ -1,4 +1,3 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hello my Friends,  I am Shivansh Thapliyal from Dehradun.
+Your videos are great, makig me better.
