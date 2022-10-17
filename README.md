@@ -1,4 +1,6 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hi! This is Nushrat Jahan .
+this is my first contribution .
+Thankyou so much for teaching us in the most easiest and understanding way.
+It will help me alot.
+
