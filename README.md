@@ -1,4 +1,3 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hellow bhiya Thanks a lot for give so much effort and teah us these technologies with easy steps.
+Lots of love from GCETTB(Soumen Singh).
