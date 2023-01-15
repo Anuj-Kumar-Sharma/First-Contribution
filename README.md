@@ -1,2 +1,2 @@
 # First-Contribution
-Hi this is my first open source contribution 
+Hi that's my first open source contribution  
