@@ -1,4 +1,2 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hi this is Somnath .Anuj bhaiiyya is great from all other youtuber and even better than aman bhaiyya
