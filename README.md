@@ -1,4 +1,6 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+this video is very short and informative 
+I learned git in like an hour 
+It is still usefull in march 2023
+this is me again
+anurag
