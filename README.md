@@ -1,4 +1,2 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hii, I'm Sujeet Singh Tomar and this is my first contribution on open source and currently I'm learning a git and github.
