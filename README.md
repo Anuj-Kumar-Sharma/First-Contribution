@@ -1,4 +1,4 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
+Hi this is Swarup Sharma upcomming Web Developer (MERN)
 This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Thank You Anuj Bhaiya for this video. Very Helpful
