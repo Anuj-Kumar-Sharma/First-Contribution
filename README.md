@@ -1,4 +1,7 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+This is Nitesh Kushwaha .
+A big thanks for making undoubtedly
+the best tutorial.
+I have gone through multiple videos about the same topic
+but nothing comes close to this.
+Finally,Git and Github fear has been eliminated.
