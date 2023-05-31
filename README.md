@@ -1,4 +1,5 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hello everyone 
+I am Vishwajeet Kumar 
+Learning git and github from Anuj Kumar Sharma
+This is My first Contribution to open source
