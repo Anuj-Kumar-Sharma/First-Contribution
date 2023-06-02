@@ -1,4 +1,4 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hi this is Suruchi
+This is my first contribution to your repo.
+Hello Anuj. Your video was really helpful. Thanks a lot for it!!
