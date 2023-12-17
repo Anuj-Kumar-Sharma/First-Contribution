@@ -1,4 +1,9 @@
-# First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+# My First Contribution
+
+Thank you **Anuj Sir** for checking out my first contribution to this project! <br>
+You are really an amazing teacher !
+
+## About Me
+- **Name:** Sandeep Prasad
+- **GitHub:** [Sandeep Prasad](https://github.com/Sandeep-Petwal)
+- **LinkedIn:** [Sandeep Prasad](https://www.linkedin.com/in/sandeep-petwal/)
