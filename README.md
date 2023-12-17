@@ -5,5 +5,5 @@ You are really an amazing teacher !
 
 ## About Me
 - **Name:** Sandeep Prasad
-- **GitHub:** [Your GitHub Profile](https://github.com/Sandeep-Petwal)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sandeep-petwal/)
+- **GitHub:** [Sandeep Prasad](https://github.com/Sandeep-Petwal)
+- **LinkedIn:** [Sandeep Prasad](https://www.linkedin.com/in/sandeep-petwal/)
