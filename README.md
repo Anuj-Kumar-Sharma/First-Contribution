@@ -1,6 +1,4 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
+Hi this is Akash yewale and this is my contribution.
 This is my first contribution
-hello anuj thanks for this video. Very Helpful
-hello akash here............
-this my 
+hello anuj thanks for this video. Very Helpful to push pull understanding.. 
