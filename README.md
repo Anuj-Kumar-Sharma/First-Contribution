@@ -1,4 +1,3 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
+Hey, I am Ajeet Kumar vishwakarma. I am pursuing Masters from BITS GOA.
 This is my first contribution
-hello anuj thanks for this video. Very Helpful
