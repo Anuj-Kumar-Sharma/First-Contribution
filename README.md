@@ -1,4 +1,2 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+My name is Yashasvika Rujali Saxena. I am learning GIT and GITHUB for the first time. Thanks to Anuj Bhaiya for teaching us in just half an hour.
