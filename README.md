@@ -1,4 +1,2 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hi My name is Nilay Adhikary. And I want to thank Anju bhaiya for this useful tutorial.:
