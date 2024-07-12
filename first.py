@@ -1,0 +1,1 @@
+print("thanks a lot");
