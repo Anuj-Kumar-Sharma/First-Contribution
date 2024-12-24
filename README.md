@@ -1,4 +1,4 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
+Hi this is from a student(Btech first year)
 This is my first contribution
-hello anuj thanks for this video. Very Helpful
+hello anuj sir, thanks alot for this video it was Very Helpful
