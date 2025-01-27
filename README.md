@@ -1,4 +1,4 @@
+
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hello I am a beginner and this is my contribution.
+Thank you so much anuj for the video. Very helpful. Cheers
