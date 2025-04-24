@@ -1,0 +1,37 @@
+.timer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: calc(100% - 60px);
+}
+
+.time-display {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 24px;
+  color: #333;
+}
+
+.toggle-button {
+  padding: 12px 24px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #e0e0e0;
+  transition: all 0.3s ease;
+}
+
+.toggle-button:hover {
+  background-color: #d0d0d0;
+}
+
+.toggle-button.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.toggle-button.active:hover {
+  background-color: #45a049;
+} 

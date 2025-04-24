@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Eye Break Reminder</title>
+    <style>
+      body {
+        width: 300px;
+        padding: 10px;
+        font-family: Arial, sans-serif;
+      }
+      .container {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }
+      .status {
+        padding: 10px;
+        border-radius: 5px;
+        background-color: #f0f0f0;
+      }
+      button {
+        padding: 8px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #45a049;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Eye Break Reminder</h2>
+      <div class="status">
+        <p>Next break in: <span id="timeLeft">--:--</span></p>
+        <p>Status: <span id="status">Active</span></p>
+      </div>
+      <button id="toggleBtn">Pause Reminder</button>
+      <button id="settingsBtn">Settings</button>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>

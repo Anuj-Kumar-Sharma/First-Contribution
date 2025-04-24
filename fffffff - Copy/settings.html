@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Eye Break Settings</title>
+  <style>
+    body {
+      width: 400px;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+    .row {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+    }
+    label {
+      font-weight: bold;
+    }
+    input[type="number"],
+    textarea {
+      padding: 8px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      width: 100%;
+      box-sizing: border-box;
+    }
+    textarea {
+      height: 80px;
+      resize: vertical;
+    }
+    button {
+      padding: 10px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Eye Break Settings</h2>
+    
+    <div class="row">
+      <label>
+        <input type="checkbox" id="enabled" />
+        Enable Reminder
+      </label>
+    </div>
+
+    <div class="row">
+      <label for="interval">Interval (minutes):</label>
+      <input type="number" id="interval" min="1" max="120" />
+    </div>
+
+    <div class="row">
+      <label for="message">Notification Message:</label>
+      <textarea id="message" placeholder="Enter your reminder message..."></textarea>
+    </div>
+
+    <button id="save">Save Settings</button>
+  </div>
+
+  <script src="settings.js"></script>
+</body>
+</html> 

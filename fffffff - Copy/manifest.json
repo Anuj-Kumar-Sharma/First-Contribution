@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Eye Break Reminder",
+  "version": "1.0",
+  "description": "Reminds you every N minutes to take an eye break, running in the background.",
+  "permissions": [
+    "storage",
+    "notifications"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "options_page": "settings.html",
+  "icons": {
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
